@@ -1,3 +1,5 @@
+This code is a small part of a research internship that I was a part of under the guidance of various professors from couple of universities.
+
 # Behavior-Detection-by-Pose-Estimation-in-Animals
 
 Quantitative behaviour measurement plays an essential role in addressing the questions raised across neuroscience. It helps the experts understand if there is anything wrong or missing with our lives. Humans however display a multitude of complex behavioural patterns as compared to animals and this makes the task of behaviour detection easier in animals. 
