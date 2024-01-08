@@ -11,7 +11,7 @@ Behaviour detection for animals finds its use in many applications like wildlife
 ## To run the code:
 
 1. Refer to the [DeepPoseKit](https://github.com/jgraving/DeepPoseKit) library on Github.
-2. Download the source code.
+2. Download the [source code](https://drive.google.com/drive/folders/1uG6B7s0E_kP24RkJdd5wEuDBOaF8LF52?usp=sharing).
 3. Run the files in order: 
    - `DogPoseEstimation.ipynb` 
    - `DogPoseModelApplication.ipynb` 
